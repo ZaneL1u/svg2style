@@ -1,0 +1,37 @@
+{
+  "name": "svg2style",
+  "version": "0.0.1",
+  "description": "svg转style",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --mode production",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yorksh1re/svg2style.git"
+  },
+  "keywords": [
+    "svg"
+  ],
+  "author": "Yorksh1re",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yorksh1re/svg2style/issues"
+  },
+  "homepage": "https://github.com/Yorksh1re/svg2style#readme",
+  "devDependencies": {
+    "@babel/core": "^7.0.0-0",
+    "@babel/preset-env": "^7.16.5",
+    "@babel/preset-typescript": "^7.16.5",
+    "@types/http-proxy": "^1.17.8",
+    "@types/jest": "^27.0.3",
+    "jest": "^27.4.5",
+    "ts-loader": "^9.2.6",
+    "typescript": "^4.5.4",
+    "uglify-js": "^3.14.5",
+    "uglifyjs-webpack-plugin": "^2.2.0",
+    "webpack": "^5.65.0",
+    "webpack-cli": "^4.9.1"
+  }
+}

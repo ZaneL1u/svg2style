@@ -1,6 +1,6 @@
 {
   "name": "svg2style",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "svg转style",
   "main": "index.js",
   "scripts": {

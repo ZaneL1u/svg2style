@@ -1,6 +1,6 @@
 # svg2style 
 
-svg转css样式工具
+<!-- svg转css样式工具 -->
 
 <svg viewBox="0 0 1024 1024" width="100" height="100">
     <path
